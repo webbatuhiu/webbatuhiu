@@ -1,0 +1,24 @@
+.navbar {
+	background-color: white;
+}
+.jumbotron {
+	padding-top: 3rem;
+}
+h4 {
+	padding: 2rem;
+	text-align: center;
+}
+.card img {
+		width: 200px;
+}
+#penginapan {
+	padding-top: 3rem;
+}
+#restoran {
+	padding-top: 3rem;
+}
+.dropdown-menu {
+	width: 200px;
+	text-align: left;
+	margin: 3rem;
+}
